@@ -1,0 +1,7 @@
+{
+  "name": "APPTITO SaaS",
+  "description": "A complete Gastronomy Management SaaS featuring digital menus, orders, inventory, and financial control.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
